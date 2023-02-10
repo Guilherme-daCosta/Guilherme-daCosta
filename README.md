@@ -1,6 +1,6 @@
 ## Olá! Eu sou Guilherme Augusto da Costa 
 
-### Developing :warning:
+### ***Developing*** :warning:
 
 - Desenvolvendo habilidades em JavaScript, APIs, Frameworks e Git e GitHub.
 - Sempre em busca constante por conhecimento.
