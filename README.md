@@ -2,8 +2,15 @@
 
 ### ***Developing*** :warning:
 
-- Desenvolvendo habilidades em JavaScript, APIs, Frameworks e Git e GitHub.
-- Em busca constante por conhecimento.
+###- Possuo conhecimentos em:
+####JavaScript;
+####Node.js;
+####APIs;
+####Express;
+####SQL;
+####MongoDB;
+####Git e GitHub.
+###- Em busca constante por conhecimento.
 
 <div style="display: inline_block"><br>
   <img align="center" alt="R-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
