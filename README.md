@@ -22,11 +22,14 @@
   #### JavaScript, Node.js, APIs REST and RESTful, Express, SQL, MongoDB, Agile Methodologies, Git e GitHub.<br />
   #### Data analysis, extraction and modeling using technologies such as: Power BI, Qlik Sense Cloud, Power query, SQL Server, language M e Excel VBA.
 
-| — — — — — — — — — — | — — — — — — — — — — |
 
 <div style="display: inline_block"><br>
   <img align="center" alt="R-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="R-Js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg">
+  <img align="center" alt="R-Js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/eslint/eslint-original.svg" />
+  <img align="center" alt="R-Js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
+  <img align="center" alt="R-Js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
+  <img align="center" alt="R-Js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-plain.svg" />
 </div>
   
   ##
