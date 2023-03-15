@@ -18,9 +18,9 @@
 
 ### ***Developing*** :warning:
 
-## - Possuo conhecimentos em:<br />
-  #### JavaScript, Node.js, APIs REST e RESTful, Express, SQL, MongoDB, Metodologias Ágeis, Git e GitHub.<br />
-  #### Análise, Extração e modelagem de dados utilizando tecnologias como: Power BI, Qlik Sense Cloud, Power query, SQL Server, linguagem M e Excel VBA.
+## - Skills:<br />
+  #### JavaScript, Node.js, APIs REST and RESTful, Express, SQL, MongoDB, Agile Methodologies, Git e GitHub.<br />
+  #### Data analysis, extraction and modeling using technologies such as: Power BI, Qlik Sense Cloud, Power query, SQL Server, language M e Excel VBA.
 
 | — — — — — — — — — — | — — — — — — — — — — |
 
