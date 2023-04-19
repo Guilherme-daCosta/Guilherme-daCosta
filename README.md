@@ -20,7 +20,7 @@
 
 ## - Skills:<br />
   #### JavaScript, Node.js, APIs REST and RESTful, Express, SQL, MongoDB, Agile Methodologies, Git e GitHub.<br />
-  #### Data analysis, extraction and modeling using technologies such as: Power BI, Qlik Sense Cloud, Power query, SQL Server, language M e Excel VBA.
+  #### Data analysis, extraction and modeling using technologies such as: Power BI, Qlik Sense Cloud, Power query, SQL Server, language M and Excel VBA.
 
 
 <div style="display: inline_block"><br>
