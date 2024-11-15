@@ -2,14 +2,17 @@
 
 I'm a professional passionate about **technology**, **data intelligence**, and **innovation**. I have experience in **developing technological solutions** and **data analysis**, with a focus on how these technologies can transform businesses and improve operational efficiency.
 
-## 🚀 About Me
+### 🚀 About Me
 
 - 👨‍💻 Working on **data intelligence**, **machine learning**, and **software development** projects.
 - 🔍 Always exploring new approaches to solving complex business problems.
+----
+###
+###
 
-## 🌱 Constantly learning and exploring new ideas!
-
-If you're interested in **technological innovation** and **data-driven solutions**, let's have a conversation!
+### 🌱 Constantly learning and exploring new ideas!
+###
+### If you're interested in **technological innovation** and **data-driven solutions**, let's have a conversation!
 
 ###
 
