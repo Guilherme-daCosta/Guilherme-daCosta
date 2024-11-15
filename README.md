@@ -50,8 +50,9 @@ I'm a professional passionate about **technology**, **data intelligence**, and *
 
 ###
 
-My latest project was focused on creating a **step-by-step guide** to help people learn the basics of Docker. I aimed to provide an easy-to-follow walkthrough on Docker fundamentals, so anyone can get started with containerization a
-
+My latest project was focused on creating a **step-by-step guide** to help people learn the basics of Docker. I aimed to provide an easy-to-follow walkthrough on Docker fundamentals, so anyone can get started with containerization and understand how to set up, run, and manage Docker containers.
+###
+###
 ###
 
 <div align="center">
