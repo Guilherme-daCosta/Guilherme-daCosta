@@ -50,12 +50,12 @@ I'm a professional passionate about **technology**, **data intelligence**, and *
 
 ###
 
-My latest project was focused on creating a **step-by-step guide** to help people learn the basics of Docker. I aimed to provide an easy-to-follow walkthrough on Docker fundamentals, so anyone can get started with containerization and understand how to set up, run, and manage Docker containers.ndamentals, so anyone can get started with containerization and understand how to set up, run, and manage Docker containers.</p>
+My latest project was focused on creating a **step-by-step guide** to help people learn the basics of Docker. I aimed to provide an easy-to-follow walkthrough on Docker fundamentals, so anyone can get started with containerization a
 
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Guilherme-daCosta&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=monokai&hide_border=true&order=2" height="150" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Guilherme-daCosta&locale=en&hide_title=false&layout=compact&card_width=420&langs_count=5&theme=monokai&hide_border=true&order=2" height="150" alt="languages graph"  />
   <img src="https://streak-stats.demolab.com?user=Guilherme-daCosta&locale=en&mode=daily&theme=monokai&hide_border=true&border_radius=5&order=3" height="150" alt="streak graph" />
 </div>
 
