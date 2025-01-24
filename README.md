@@ -6,7 +6,7 @@ I'm a professional passionate about **technology**, **data intelligence**, and *
 
 - 👨‍💻 Working on **data intelligence**, **machine learning**, and **software development** projects.  
 - 💼 **Currently working in a fintech as a key contributor in the data area**, developing and implementing **data-driven solutions** to achieve **operational gains** across various departments.  
-- 📊 Also creating **data-driven marketing solutions** for another organization.  
+- 📊 Also creating **data-driven marketing solutions**.  
 - 🔍 Always exploring new approaches to solve complex business challenges.  
 
 ---  
